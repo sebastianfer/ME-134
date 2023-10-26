@@ -1,2 +1,2 @@
 # ME-134
-Codes used in my Advanced Robotics Class
+Codes written for projects my Advanced Robotics Class
